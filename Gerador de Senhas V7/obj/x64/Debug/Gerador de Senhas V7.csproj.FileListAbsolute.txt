@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\bin\x64\Debug\Gerador de Senhas V7.exe.config
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\bin\x64\Debug\Gerador de Senhas V7.exe
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\bin\x64\Debug\Gerador de Senhas V7.pdb
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador de Senhas V7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador_de_Senhas_V7.FrGerador.resources
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador_de_Senhas_V7.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador de Senhas V7.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador de Senhas V7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador de Senhas V7.exe
+C:\Users\HP\Desktop\C#\Gerador de Senhas\Gerador de Senhas V7\Gerador de Senhas V7\Gerador de Senhas V7\obj\x64\Debug\Gerador de Senhas V7.pdb
